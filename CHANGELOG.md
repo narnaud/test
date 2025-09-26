@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.2.1](https://github.com/narnaud/test/compare/v0.2.0...v0.2.1) (2025-09-26)
+
+
+### ⚡ Performance
+
+* Testing perf ([88f5383](https://github.com/narnaud/test/commit/88f53838eca15b35fc26abe6022f0a995a88808a))
+
+
+### 🛠️ Refactor
+
+* Finally, changed my mind ([e70342a](https://github.com/narnaud/test/commit/e70342ae7f80b6a8a0fb0721d01025594603a391))
+
+
+### 📚 Documentation
+
+* Add a link to release-please ([92178af](https://github.com/narnaud/test/commit/92178af3512cd2a6501bd8e55ec53a522f53fc19))
+
 ## [0.2.0](https://github.com/narnaud/test/compare/v0.1.0...v0.2.0) (2025-09-26)
 
 ### ⚠ BREAKING CHANGES
