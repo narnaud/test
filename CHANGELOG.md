@@ -2,8 +2,6 @@
 
 ## [0.2.0](https://github.com/narnaud/test/compare/v0.1.0...v0.2.0) (2025-09-26)
 
-SOme text to expand the release changelog.
-
 ### ⚠ BREAKING CHANGES
 
 * Change the list of available prefix
