@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.3.1](https://github.com/narnaud/test/compare/v0.3.0...v0.3.1) (2025-09-27)
+
+
+### Reverts ⎌
+
+* Removing manifest, to test ([5cfec5e](https://github.com/narnaud/test/commit/5cfec5ed3a21adf85312e70b989bbfddd8156e29))
+
+
+### Styles ✨
+
+* Change revert symbol ([c5c5dd6](https://github.com/narnaud/test/commit/c5c5dd6bee0d868dd5b8d2e5e92a639f09e89870))
+
+
+### Code Refactoring 🛠️
+
+* Move release-please config to general ([23909fb](https://github.com/narnaud/test/commit/23909fb3e96dafb3fc2e0e08c6d097dc2028057c))
+
+
+### Other 🧰
+
+* Removing manifest, to test ([2028915](https://github.com/narnaud/test/commit/20289159560abfd7bd33497101aed79ecd3f474c))
+
 ## [0.3.0](https://github.com/narnaud/test/compare/v0.2.1...v0.3.0) (2025-09-26)
 
 
