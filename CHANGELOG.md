@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.0](https://github.com/narnaud/test/compare/v0.3.1...v0.4.0) (2026-09-10)
+
+
+### Features 🚀
+
+* Qt example ([d11f2a6](https://github.com/narnaud/test/commit/d11f2a611d8866c1430d94bccd768f3875f7d242))
+* Rust example ([d56dfb7](https://github.com/narnaud/test/commit/d56dfb72c49faf48a1a96f56bab04b4357fc9277))
+
 ## [0.3.1](https://github.com/narnaud/test/compare/v0.3.0...v0.3.1) (2025-09-27)
 
 
