@@ -10,6 +10,7 @@ qt_standard_project_setup()
 
 qt_add_executable(qt-example
     main.cpp
+    mainwidget.ui
 )
 
 target_link_libraries(qt-example PRIVATE Qt6::Widgets)

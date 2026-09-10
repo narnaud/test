@@ -1,15 +1,16 @@
 #include <QApplication>
-#include <QLabel>
+#include <QWidget>
+
+#include "ui_mainwidget.h"
 
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
 
-    QLabel label("Hello, Minitel! How are you?");
-    label.setWindowTitle("Qt Example");
-    label.resize(200, 100);
-    label.setAlignment(Qt::AlignCenter);
-    label.show();
+    QWidget widget;
+    Ui::MainWidget ui;
+    ui.setupUi(&widget);
+    widget.show();
 
     return app.exec();
 }
